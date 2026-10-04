@@ -1,3 +1,4 @@
 line 2
 B's new line
 B edit
+case 3 edit
